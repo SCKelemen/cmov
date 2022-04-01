@@ -1,0 +1,15 @@
+/workspaces/cmov/bin/Debug/net6.0/cmov
+/workspaces/cmov/bin/Debug/net6.0/cmov.deps.json
+/workspaces/cmov/bin/Debug/net6.0/cmov.runtimeconfig.json
+/workspaces/cmov/bin/Debug/net6.0/cmov.dll
+/workspaces/cmov/bin/Debug/net6.0/ref/cmov.dll
+/workspaces/cmov/bin/Debug/net6.0/cmov.pdb
+/workspaces/cmov/obj/Debug/net6.0/cmov.csproj.AssemblyReference.cache
+/workspaces/cmov/obj/Debug/net6.0/cmov.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cmov/obj/Debug/net6.0/cmov.AssemblyInfoInputs.cache
+/workspaces/cmov/obj/Debug/net6.0/cmov.AssemblyInfo.cs
+/workspaces/cmov/obj/Debug/net6.0/cmov.csproj.CoreCompileInputs.cache
+/workspaces/cmov/obj/Debug/net6.0/cmov.dll
+/workspaces/cmov/obj/Debug/net6.0/ref/cmov.dll
+/workspaces/cmov/obj/Debug/net6.0/cmov.pdb
+/workspaces/cmov/obj/Debug/net6.0/cmov.genruntimeconfig.cache
